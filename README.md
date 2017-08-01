@@ -1,2 +1,2 @@
 # simple-koa-app
-a simple node app scanfford use koa mongoose ejs
+a simple node app scanfford use koa mongoose ejs 

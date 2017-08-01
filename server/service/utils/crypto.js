@@ -2,7 +2,7 @@
 // 
 const crypto = require('crypto');
 // 
-const secret = 'nemos';
+const secret = 'secret';
 
 const expiresLen = 1000 * 60 * 60 * 24 * 7;
 

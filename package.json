@@ -1,7 +1,7 @@
 {
   "name": "gengar",
   "version": "1.0.0",
-  "description": "stat app",
+  "description": "simple koa app",
   "main": "apps.js",
   "directories": {
     "doc": "doc"
